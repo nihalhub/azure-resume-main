@@ -2,6 +2,8 @@
 My own azure resume to understand and implement azure services for FRT
 # Azure Cloud Resume Future Ready talent
 
+resume and portfolio using azure, cosmos db, on azure blob storage . by using their css html js skills . the basic idea is to use the azure web services to host our website and display their skills and resume at the same time using this project  . The front-end is a static site with HTML, CSS, and JavaScript. It's static and has a visitor counter. The visitor counter data fetched via an API call to an Azure Function.The back-end is an HTTP triggered Azure Functions with Cosmos DB input and output binding. 
+
 ## Table of Contents
 1. [Project Description](#introduction)
 2. [To be done](#next)
@@ -101,7 +103,7 @@ Creation of Azure Function
 - Install [Azure static Web Apps extension](https://docs.microsoft.com/en-us/azure/static-web-apps/getting-started?tabs=vanilla-javascript#install-azure-static-web-apps-extension) for Visual Studio Code and create static web app
 - Create [Azure Content Delivery Network](https://docs.microsoft.com/en-us/azure/cdn/cdn-create-new-endpoint) (CDN) profile and endpoint for your website
 - [Map your custom domain](https://docs.microsoft.com/en-us/azure/cdn/cdn-map-content-to-custom-domain?tabs=azure-dns%2Cazure-portal%2Cazure-portal-cleanup) to CDN profile
-    - I’ve used [NameCheap](https://www.namecheap.com/) for my custom domain
+    - I’ve havent used custom domain for my custom domain
 - Enforce [HTTPS traffic only](https://stackoverflow.com/questions/39244265/azure-web-app-redirect-http-to-https)
 - Redirect [HTTP traffic to HTTPS](https://stackoverflow.com/questions/39244265/azure-web-app-redirect-http-to-https)
 - Get your website URL and edit [CORS](https://docs.microsoft.com/en-us/azure/azure-functions/functions-how-to-use-azure-function-app-settings?tabs=portal#cors) for allowed origins
