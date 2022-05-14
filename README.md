@@ -2,18 +2,19 @@
 My own azure resume to understand and implement azure services for FRT
 # Azure Cloud Resume Future Ready talent
 ## Project Info
-resume and portfolio using azure, cosmos db, on azure blob storage . by using their css html js skills . the basic idea is to use the azure web services to host our website and display their skills and resume at the same time using this project  . The front-end is a static site with HTML, CSS, and JavaScript. It's static and has a visitor counter. The visitor counter data fetched via an API call to an Azure Function.The back-end is an HTTP triggered Azure Functions with Cosmos DB input and output binding. 
-##Project Link=[website.](https://azureresumefrt.z20.web.core.windows.net/#about/)
-##Code=  
+resume and portfolio using azure, cosmos db, on azure blob storage . by using their css html js skills . the basic idea is to use the azure web services to host our website and display their skills and resume at the same time using this project  . The front-end is a static site with HTML, CSS, and JavaScript. It's static and has a visitor counter. The visitor counter data fetched via an API call to an Azure Function.The back-end is an HTTP triggered Azure Functions with Cosmos DB input and output binding.
+
+## Project Link=[website.](https://azureresumefrt.z20.web.core.windows.net/#about/)
+## Code=  
 ![Screenshot 2022-05-14 154512](https://user-images.githubusercontent.com/59210188/168421876-8d76b68b-da8f-4891-b647-8aefae89432b.png)
 ![Screenshot 2022-05-14 154446](https://user-images.githubusercontent.com/59210188/168421878-bbfae720-2351-473d-b32c-b4d4d29cb6aa.png)
 
-##Output
-#Home
+## Output
+# Home
 ![Screenshot 2022-05-14 154708](https://user-images.githubusercontent.com/59210188/168421669-71db2775-faf6-45e9-a687-1df58d60dcf1.png)
-#About
+# About
 ![Screenshot 2022-05-14 154617](https://user-images.githubusercontent.com/59210188/168421673-ab7e0e90-1ea7-4a38-8aee-e87455374468.png)
-#Resume
+# Resume
 ![Screenshot 2022-05-14 154640](https://user-images.githubusercontent.com/59210188/168421672-4c8fafaa-8f80-47e0-8fae-cce72362097d.png)
 
 
