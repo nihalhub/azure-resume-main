@@ -1,8 +1,14 @@
 # azure-resume
 My own azure resume to understand and implement azure services for FRT
 # Azure Cloud Resume Future Ready talent
-
+## Project Info
 resume and portfolio using azure, cosmos db, on azure blob storage . by using their css html js skills . the basic idea is to use the azure web services to host our website and display their skills and resume at the same time using this project  . The front-end is a static site with HTML, CSS, and JavaScript. It's static and has a visitor counter. The visitor counter data fetched via an API call to an Azure Function.The back-end is an HTTP triggered Azure Functions with Cosmos DB input and output binding. 
+#code 
+#Output working 
+![Screenshot 2022-05-14 154708](https://user-images.githubusercontent.com/59210188/168421669-71db2775-faf6-45e9-a687-1df58d60dcf1.png)
+![Screenshot 2022-05-14 154640](https://user-images.githubusercontent.com/59210188/168421672-4c8fafaa-8f80-47e0-8fae-cce72362097d.png)
+![Screenshot 2022-05-14 154617](https://user-images.githubusercontent.com/59210188/168421673-ab7e0e90-1ea7-4a38-8aee-e87455374468.png)
+
 
 ## Table of Contents
 1. [Project Description](#introduction)
